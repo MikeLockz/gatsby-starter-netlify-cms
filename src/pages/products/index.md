@@ -101,6 +101,6 @@ pricing:
       items:
         - Everything.
       plan: Life
-      price: $20
+      price: '20'
 ---
 
